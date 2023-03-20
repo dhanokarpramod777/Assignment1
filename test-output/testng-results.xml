@@ -2,24 +2,24 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-03-11T16:00:43 IST" name="Default suite" finished-at="2023-03-11T16:01:12 IST" duration-ms="28394">
+  <suite started-at="2023-03-20T09:02:02 IST" name="Default suite" finished-at="2023-03-20T09:02:42 IST" duration-ms="40497">
     <groups>
     </groups>
-    <test started-at="2023-03-11T16:00:43 IST" name="Default test" finished-at="2023-03-11T16:01:12 IST" duration-ms="28394">
+    <test started-at="2023-03-20T09:02:02 IST" name="Default test" finished-at="2023-03-20T09:02:42 IST" duration-ms="40497">
       <class name="TestData.Test1">
-        <test-method is-config="true" signature="beforeClass()[pri:0, instance:TestData.Test1@449a4f23]" started-at="2023-03-11T16:00:43 IST" name="beforeClass" finished-at="2023-03-11T16:00:56 IST" duration-ms="12797" status="PASS">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:TestData.Test1@449a4f23]" started-at="2023-03-20T09:02:02 IST" name="beforeClass" finished-at="2023-03-20T09:02:27 IST" duration-ms="25818" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeClass -->
-        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:TestData.Test1@449a4f23]" started-at="2023-03-11T16:00:56 IST" name="beforeMethod" finished-at="2023-03-11T16:00:56 IST" duration-ms="45" status="PASS">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:TestData.Test1@449a4f23]" started-at="2023-03-20T09:02:27 IST" name="beforeMethod" finished-at="2023-03-20T09:02:28 IST" duration-ms="63" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method signature="VerifyUser_Login()[pri:0, instance:TestData.Test1@449a4f23]" started-at="2023-03-11T16:00:56 IST" name="VerifyUser_Login" finished-at="2023-03-11T16:01:09 IST" duration-ms="13089" status="PASS">
+        <test-method signature="VerifyUser_Login()[pri:0, instance:TestData.Test1@449a4f23]" started-at="2023-03-20T09:02:28 IST" name="VerifyUser_Login" finished-at="2023-03-20T09:02:40 IST" duration-ms="12233" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- VerifyUser_Login -->
-        <test-method is-config="true" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:TestData.Test1@449a4f23]" started-at="2023-03-11T16:01:09 IST" name="afterMethod" finished-at="2023-03-11T16:01:10 IST" duration-ms="341" status="PASS">
+        <test-method is-config="true" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:TestData.Test1@449a4f23]" started-at="2023-03-20T09:02:40 IST" name="afterMethod" finished-at="2023-03-20T09:02:40 IST" duration-ms="279" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -30,7 +30,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
-        <test-method is-config="true" signature="afterClass()[pri:0, instance:TestData.Test1@449a4f23]" started-at="2023-03-11T16:01:10 IST" name="afterClass" finished-at="2023-03-11T16:01:12 IST" duration-ms="2056" status="PASS">
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:TestData.Test1@449a4f23]" started-at="2023-03-20T09:02:40 IST" name="afterClass" finished-at="2023-03-20T09:02:42 IST" duration-ms="2011" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterClass -->
